@@ -1,0 +1,23 @@
+#utilities
+tqdm
+itertools
+
+#data
+pickle
+pandas
+
+#plotting
+matplotlib
+seaborn
+
+#scientific computing
+numpy
+scipy
+
+#machine learning
+torch
+torchsummary
+
+#graphs
+networkx
+torch_geometric
