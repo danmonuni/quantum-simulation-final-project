@@ -1,5 +1,7 @@
 hands on paper study
 
+#gnn #pytorch_geometric
+
 paper: "Learning ground states of quantum Hamiltonians with graph networks"
     link: https://arxiv.org/abs/2110.06390
 
