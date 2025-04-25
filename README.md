@@ -20,7 +20,7 @@ Click the badge below to open and run the notebook in Google Colab:
 
 The full study with results is documented in a slide deck accessible below:
 
-[![View Slides](https://img.shields.io/badge/Slides-Presentation-orange)](https://github/danmonuni/quantum-simulation-final-project/blob/main/quantum_slides.pdf)
+[![View Slides](https://img.shields.io/badge/Slides-Presentation-orange)](https://github.com/danmonuni/quantum-simulation-final-project/blob/main/quantum_slides.pdf)
 
 
 
