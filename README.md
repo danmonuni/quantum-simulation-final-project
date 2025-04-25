@@ -1,4 +1,4 @@
-# AI Models for Physics Final Project
+# Quantum Simulation Final Project
 
 Final project for the course on Quantum Simulation.
 
