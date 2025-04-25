@@ -1,9 +1,25 @@
-hands on paper study
+# AI Models for Physics Final Project
 
-#gnn #pytorch_geometric
+Final project for the course on Quantum Simulation.
 
-paper: "Learning ground states of quantum Hamiltonians with graph networks"
-    link: https://arxiv.org/abs/2110.06390
+The project starts from the paper: [Learning ground states of quantum Hamiltonians with graph networks](https://arxiv.org/abs/2110.06390).
+It tries to replicate the paper's results in simplified and increasingly more complex settings.
+
+## 🚀 Run it in Colab
+
+Click the badge below to open and run the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danmonuni/quantum-simulation-final-project/blob/main/quantum_simulation_notebook.ipynb)
+
+## 📊 Results
+
+The full study with results is documented both in a slide deck accessible below:
+
+[![View Slides](https://img.shields.io/badge/Slides-Presentation-orange)](https://colab.research.google.com/github/danmonuni/quantum-simulation-final-project/blob/main/quantum_slides.pdf)
+
+
+
+
 
 how-to-use: 
     other folders contain the modular components of the project shall I develop it further
